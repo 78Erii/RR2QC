@@ -1,4 +1,4 @@
-# The code for RR2QC
+# The code for RR2QC (Leveraging Label Semantics and Meta-Label Refinement for Multi-Label Question Classification)
 
 ## Requirements
     conda create --name RR2QC python=3.11.7
